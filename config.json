@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "messieosango659@gmail.com",
-    "password": "0897520168messie",
+    "email":
+    "password": 
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61564382117276"
+  "61572007541941"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-          "nickNameBot": "༒✯𝑆𝐴𝑇𝑂𝑅𝑈 𝐺𝑂𝐽𝑂 𝐵𝑂𝑇✯༒",
+          "nickNameBot": " €ASTRIDE@ "
   "prefix": "€",
   "database": {
     "type": "sqlite",
